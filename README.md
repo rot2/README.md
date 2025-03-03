@@ -3,7 +3,7 @@
 ---
 
 ## 🌟 Hakkımda / About Me
-Merhaba! Ben Boran, 2014'ten beri yazılım geliştirme ile uğraşıyorum ve şu anda Bilgisayar Programcılığı bölümü öğrencisiyim. Teknolojiye, oyun geliştirme ve web uygulamalarına, siber güvenlik alanlarına derin bir tutkuyla bağlıyım. Kod yazarken hem yaratıcı hem de çözüm odaklı olmaya özen gösteriyorum.
+Ben Boran, 2014'ten beri yazılım geliştirme ile uğraşıyorum ve şu anda Bilgisayar Programcılığı bölümü öğrencisiyim. Teknolojiye, oyun geliştirme ve web uygulamalarına, siber güvenlik alanlarına derin bir tutkuyla bağlıyım. Kod yazarken hem yaratıcı hem de çözüm odaklı olmaya özen gösteriyorum.
 
 Hello! I’m Boran, a Computer Programming student with over a decade of software development experience since 2014. I’m deeply passionate about technology, game development, web applications, and cybersecurity. I strive to be both creative and solution-oriented in my coding journey.
 
@@ -31,13 +31,6 @@ Hello! I’m Boran, a Computer Programming student with over a decade of softwar
 - **Bilgisayar Programcılığı** (Devam Ediyor)  
 - Kendi kendime öğrenme, açık kaynak projeler ve pratik uygulamalarla sürekli gelişim.
 
-
----
-
-## 📊 GitHub İstatistiklerim / GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuN1Zz&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuN1Zz&layout=compact&theme=dracula)
 
 
 ---
